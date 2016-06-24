@@ -13,3 +13,5 @@ function setStrExt(str){
   return '我的名字是'+str;
 }
 ```
+
+3. 这是我第一次使用github的一个测试
